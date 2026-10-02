@@ -1,7 +1,6 @@
 # Customer Shopping Behavior Analysis
 
-![Dashboard](<img width="1348" height="757" alt="Dashboard" src="https://github.com/user-attachments/assets/4fa4fd4b-1ce1-4bcc-bfd6-a85c6b6dbe4e" />
-)
+![Dashboard](Dashboard.png)
 
 An end-to-end data analytics project that analyzes 3,900 customer transactions to understand what drives revenue, discount usage, and subscription value.
 

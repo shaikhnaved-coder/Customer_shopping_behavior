@@ -39,8 +39,7 @@ Total revenue: $233,081 | Average purchase: $59.76 | Average review rating: 3.75
 Python · Pandas · SQLAlchemy · PostgreSQL · Power BI · Jupyter Notebook
 
 ## Repository Contents
-- `"C:\Users\shaikh naved\Downloads\Customer_shopping_behavior.ipynb"`: data cleaning and loading into PostgreSQL
-- `"C:\Users\shaikh naved\Downloads\postgre.sql"`: SQL analysis queries
-- `"C:\Users\shaikh naved\OneDrive\Desktop\ipl\customer shopping dashboard.pbix"`: Power BI dashboard
-- `<img width="1348" height="757" alt="Dashboard" src="https://github.com/user-attachments/assets/d9f25ff3-fcaf-4043-b3a9-3a20159d095b" />
-`: dashboard screenshot
+- `Customer_shopping_behavior.ipynb`: data cleaning and loading into PostgreSQL
+- `postgre.sql`: SQL analysis queries
+- `customer shopping dashboard.pbix`: Power BI dashboard
+- `Dashboard.png`: dashboard screenshot
